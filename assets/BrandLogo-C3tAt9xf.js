@@ -1,4 +1,4 @@
-import{c as s,j as a,bD as g,bE as m,bG as p,bH as k,cA as x,d as y,as as r}from"./index-Bf-BoKFl.js";import{idiomaAtual as j,trocarIdioma as v}from"./traducao-BcvsC3Pk.js";/**
+import{c as s,j as a,bD as g,bE as m,bG as p,bH as k,cA as x,d as y,as as r}from"./index-CAje-ECP.js";import{idiomaAtual as j,trocarIdioma as v}from"./traducao-DgscCPhB.js";/**
  * @license lucide-react v0.462.0 - ISC
  *
  * This source code is licensed under the ISC license.
